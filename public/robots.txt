@@ -1,0 +1,21 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: SiteAuditBot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Semrushbot-SI
+Allow: /
+User-agent: Twitterbot
+Allow: /blog/*
+
+User-agent: *
+Disallow: 
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /forget-password
+Disallow: /about-us
+Disallow: /cart
+Disallow: /undefined
+
+Sitemap: https://www.nearestlaundry.com/sitemap.xml

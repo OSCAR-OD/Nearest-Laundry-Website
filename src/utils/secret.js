@@ -1,0 +1,4 @@
+export default {
+    //stripePublic: 'pk_test_51J8pnpIIQpgUe9STM1wwTy1Q820667WwC6xgz9n22r0Z1kjkMPvMTjTKwRCz7VEcNhbGbkhYCFUkzg1QDYvIzTOP00n3AWwWf5'
+    stripePublic: 'pk_live_51J8pnpIIQpgUe9ST295BJrzJWMVTnjLqAeMrY4kVq45sZkDLRTca7COHz18dYMgQPRODcoKMwcOoKzmStFOBsvly00WMX4mX5l'
+}
